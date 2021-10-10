@@ -1,1 +1,1 @@
-# go-blockchain
+# A basic blockchain built in Go
